@@ -238,6 +238,19 @@ function setCard() {
 - Create a button that resets the attributes of each card. 
 
 
+<!-- // let buttonEl= document.createElement('button');
+// buttonEl.innerText='Reset Button';
+// document.body.appendChild(buttonEl);
+
+// let buttonReset = function(card){
+
+//     }
+// }
+// buttonEl.addEventListener('reset', bottonReset)
+ -->
+
+
+
 ## Contributions
 
 If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch.

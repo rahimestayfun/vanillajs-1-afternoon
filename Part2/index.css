@@ -53,3 +53,16 @@ section span:nth-of-type(3) {
   width: 100px;
   border: 1px solid #000;
 }
+
+button{
+  font-size: 20px;
+}
+button:hover{
+  background-color:rgb(235, 179, 179);
+}
+input{
+  font-size: 20px;
+}
+input:hover{
+  background-color:rgb(235, 179, 179);
+}

@@ -9,6 +9,14 @@ let setCard= function(){
     card.style.color= colorIdEl.value;
 }
 
+function reset(){
+    document.getElementById('diamond').style = '';
+    document.getElementById('club').style = '';
+    document.getElementById('heart').style = '';
+    document.getElementById('spade').style = '';
+}
+
+
 
 
 
